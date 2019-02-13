@@ -35,6 +35,7 @@ What are the differences between visibility hidden and display none
 
 ##
 ### What is the fastest way to select elements by using css selectors?
+### And how many ways to apply CSS?
 
 ##
 ###
